@@ -1,7 +1,7 @@
 # This project is a part from Linear Algebra course
 
 ## Requirements
-1. Python
+Python
 
 ## How to set up project
 ### 1. clone the repository <br>
@@ -11,13 +11,15 @@ git clone <repo-url>
 ### 2. build the source code
 ```
 cd Project-SVD-Image-Compression-
-pip install numpy matplotlib opencv-python
-
 ```
 
-### 3. Run this code on terminal
+### 3. Install this code on terminal
 ```
 pip install numpy matplotlib opencv-python
+```
+### 4. execute the program
+```
+python svd_compressed.py
 ```
 
 
